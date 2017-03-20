@@ -1,4 +1,5 @@
 body{
+<<<<<<< HEAD
 margin: 0;
   background: green;
   color: white;
@@ -9,4 +10,9 @@ h1{
 }
 p{
   padding: 20px;
+=======
+  margin: 0;
+  background: lightblue;
+  color: white;
+>>>>>>> dev
 }
